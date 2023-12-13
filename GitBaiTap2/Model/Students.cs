@@ -8,5 +8,6 @@ namespace GitBaiTap2.Model
 {
     internal class Students
     {
+        public int ID { get; set; }
     }
 }
